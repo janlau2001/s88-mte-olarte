@@ -1,5 +1,5 @@
 {
-    "url": "",
+    "url": "https://s88-mte-olarte.vercel.app",
     "endpoints": {
         "register": "/register",
         "login": "/login",
